@@ -3,8 +3,8 @@
 ## Não possui seus próprios *this*, *arguments*, *super* e *new.target*
 ## Também permite retornar diretamente uma expressão, caso seja uma função de uma única linha
 ### Exemplo: 
-~ const sum = (a, b) => {
+~~~ const sum = (a, b) => {
   return a + b
 }
 
-const multiply = (a, b) => a * b ~
+const multiply = (a, b) => a * b 
