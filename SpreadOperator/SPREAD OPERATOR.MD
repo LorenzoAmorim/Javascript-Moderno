@@ -11,8 +11,8 @@
 ### Transformar strings em arrays
 
 ## Exemplo:
-~ let srt = "Olá, Mundo"
+~~~ let srt = "Olá, Mundo"
 let arr = [4, 2, 8, 3, 1]
 
 console.log(...str) // Separa as letras O l á ,   M u n d o
-console.log(...arr) // Separa os elementos 4 2 8 3 1 ~
+console.log(...arr) // Separa os elementos 4 2 8 3 1 
