@@ -6,9 +6,9 @@
 ## Também pode ser utilizada de outras formas, como nos parâmetros de uma função.
 
 ### Exemplo:
-~ const { name, email } = person
+~~~ const { name, email } = person
 const [x, y] = coordinates
 
 function hello({ name }) {
     console.log(`Hello, ${name}`)
-} ~
+} 
